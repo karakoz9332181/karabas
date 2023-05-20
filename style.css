@@ -1,0 +1,152 @@
+main{
+    margin: 0 auto;
+    width: 1000px;
+} 
+h1{
+    display: block;
+    font-size: 3em;
+    font-weight: bold;
+}
+.header{
+    background:rgba(150, 186, 184, 0.1);
+    padding: 30px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-weight: 900;
+}
+.header-link {
+    margin: 0 40px;
+    padding: 40px;
+    
+}
+.link {
+    color: rgb(72, 139, 233);
+    transition: color .2s;
+    font-size: 20px;
+}
+.title {
+    font-size: 50px;
+    color: rgba(176, 123, 24, 0.8);
+    text-align: center;
+}
+.titleR{
+text-align: center;
+font-size: 25px;
+font-family: Pacifico;
+color: rgb(19, 179, 19);
+}
+
+.img-wrapper {
+margin: auto;
+width: 70%;
+background-color: rgba(121, 188, 171, .3);
+padding: 20px;
+text-align: center;
+}
+.img {
+    border: 1px solid rgb(213, 135, 53);
+}
+em {
+    color: rgb(78, 7, 7);
+    text-align: center;
+   font-size: 20px; 
+}
+a {
+    color:rgb(18, 217, 84); 
+}
+
+p {
+    display: block;
+    font-family: "Courier New";
+    font-size: 20px;
+    text-indent: 50px; 
+}
+strong {
+    color:rgb(255, 115, 0); 
+    font-size: 50px;  
+    font-weight: 400;
+}
+.html_textW {
+    color: rgb(80, 227, 26);
+    font-size: 20px;
+}
+.html_textJ {
+    color: rgb(231, 157, 30);
+    font-size: 20px;
+}
+.html_textG {
+    color: rgb(227, 26, 153);
+    font-size: 20px;
+}
+.html_text_MTS {
+    color: red;
+    font-size: 23px;
+}
+.html_text_Meg {
+    color: green;
+    font-size: 23px;
+}
+.html_textK {
+        color: rgb(34, 48, 204);
+        font-size: 20px; 
+}
+.html_text_Job {
+    color: rgb(204, 111, 34);
+    font-size: 20px; 
+}
+.CSS_text {
+    color: rgb(184, 26, 26);
+    font-size: 25px;
+
+}   
+.text-style {
+     font: bold 2rem/ 30px italica 
+    
+}  
+.flop {	
+    text-align: center;
+    color: rgb(192, 91, 23);
+}
+
+.job{
+    margin: auto;
+    width: 30%;
+} 
+.me {
+  
+    margin: auto;
+    width: 70%;
+}
+.data {
+    margin: auto;
+    width: 60%;
+}   
+.contact{
+    margin: auto;
+    width: 70%;
+ } 
+span{
+    font-size: 25px;
+    color: black;
+}
+a {
+    color:rgb(8, 109, 43);
+}
+.footer {
+    border-top: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+    color: rgb(20, 49, 155);
+}
+.aside {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-around ;
+    
+}
+.contacts-item {
+    flex-direction: column;
+    align-items: center;
+}
+
